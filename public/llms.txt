@@ -1,0 +1,51 @@
+# Online Calculators
+
+> Online Calculators is a free, ad-light hub of accurate finance, tax, health, and student calculators with instant in-browser results — no sign-up, no data leaves your device.
+
+Online Calculators focuses on 16 well-built calculators (EMI, SIP, Loan, GST, FD, PPF, Compound Interest, Salary In-hand, Rent vs Buy, BMI, Calorie, Ovulation, Percentage, CGPA, Age, Gratuity) plus supporting student tools and a long-form blog that explains the formulas and use cases behind each tool.
+
+## Calculators
+
+- [BMI Calculator](/bmi-calculator): Body mass index with category, ideal weight, and health tips.
+- [SIP Calculator](/sip-calculator): Mutual fund SIP maturity and gains projection.
+- [EMI Calculator](/emi-calculator): Loan EMI, total interest, and amortisation chart.
+- [Loan Calculator](/loan-calculator): Total loan cost and interest breakdown.
+- [GST Calculator](/gst-calculator): Add or remove GST from any amount.
+- [Rent vs Buy Calculator](/rent-vs-buy-calculator): Long-term rent versus buy decision helper.
+- [FD Calculator](/fd-calculator): Fixed deposit maturity and quarterly compounding.
+- [Calorie Calculator](/calorie-calculator): Daily calorie needs from BMR and TDEE.
+- [PPF Calculator](/ppf-calculator): 15-year PPF maturity and yearly interest.
+- [Compound Interest Calculator](/compound-interest-calculator): Power-of-compounding projection.
+- [Salary In-hand Calculator](/salary-calculator): CTC to take-home under the FY 2024-25 new regime.
+- [Ovulation Calculator](/ovulation-calculator): Estimate the fertile window from cycle data.
+- [Percentage Calculator](/percentage-calculator): Every common percentage operation.
+- [CGPA Calculator](/cgpa-calculator): SGPA/CGPA and percentage conversion.
+- [Age Calculator](/age-calculator): Age in years, months, and days.
+- [Gratuity Calculator](/gratuity-calculator): End-of-service gratuity payout.
+
+## Student tools
+
+- [Attendance Tracker](/attendance-tracker): Live attendance percentage and bunk-safe count.
+- [Required Marks Calculator](/required-marks-calculator): Marks needed in remaining exams.
+- [Marks Analyzer](/marks-analyzer): Subject-wise performance breakdown.
+- [Backlog Planner](/backlog-planner): Plan and clear pending subjects.
+- [Bunk Tool](/bunk-tool): Quick "should I skip this class?" check.
+- [Document Reader](/document-reader): Read, summarise, and query documents.
+- [More Tools](/more): Full directory of every tool on Online Calculators.
+
+## Blog
+
+- [Blog Home](/blog): Long-form guides on finance, tax, health, salary, and investments.
+- [Loan & EMI Guides](/blog/category/loans)
+- [Investment Guides](/blog/category/investments)
+- [Tax & GST Guides](/blog/category/tax)
+- [Health Calculator Guides](/blog/category/health)
+- [Salary & Savings Guides](/blog/category/salary)
+
+## Optional
+
+- [About Online Calculators](/about)
+- [Contact](/contact)
+- [Privacy Policy](/privacy)
+- [Terms](/terms)
+- [Disclaimer](/disclaimer)
